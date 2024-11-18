@@ -1,0 +1,1 @@
+[![pages-build-deployment](https://github.com/Souto-Naitou/StoreHouse/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Souto-Naitou/StoreHouse/actions/workflows/pages/pages-build-deployment)
