@@ -15,13 +15,18 @@ body{
     animation: fadeIn 800ms ease-out 100ms forwards;
 }
 
+#top_content{
+    margin-top: 7vh;
+}
+
 #containers{
-    margin: 3vh auto;
+    margin: 8vh auto;
     min-width: fit-content;
+    max-width: 800px;
     width: 80vw;
     height: fit-content;
     opacity: 0;
-    animation: fadeIn 1000ms ease-in-out 300ms forwards;
+    animation: fadeIn 1000ms ease-in-out 350ms forwards;
 }
 
 .content_container{
