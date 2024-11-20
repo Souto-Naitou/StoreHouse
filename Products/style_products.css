@@ -38,7 +38,7 @@ body{
 }
 
 
-#div_buttons div{
+#div_buttons .link_button_large{
     margin: 5px;
 }
 
@@ -77,7 +77,7 @@ body{
 }
 
 
-#div_download div{
+#div_download .link_button_large{
     margin: 0 auto;
 }
 
